@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="buy_amount">+%1$s</string>
+</resources>
