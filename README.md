@@ -40,7 +40,7 @@ The application contains these packages:
 
 ## Screenshots
 
-Exhange Screen           |  Exhange Message
+Exchange Screen           |  Exchange Message
 :-------------------------:|:-------------------------:
 <img src="https://smrtmenu.ir/arash/1.png" width="280">  | <img src="https://smrtmenu.ir/arash/2.png" width="280">
 
