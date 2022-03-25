@@ -56,6 +56,10 @@ Exchange Screen           |  Exchange Message
 * `FREE_FEE_NUMBER` : free commission for "X" first transactions
 * `GIVEAWAY_DEPOSIT` : Initial balance at the beginning
 
+## About Update Rates list
+
+Due to the limited number of requests in the new free version of the API, repetitive requests have been commented out. When you uncomment it, the rate list will update every 5 seconds
+
 ## Running Test 🧪
 
 To run tests, run the following command
